@@ -13,6 +13,6 @@ Pause anytime: Going on vacation? Just pause your subscription, and we refund un
 
 ### Contact information
 
-Address: 623 Harrison St., 2nd Floor, San Francisco, CA 94107
-Phone: 415-201-6370
-Email: hello@omnifood.com
+- Address: 623 Harrison St., 2nd Floor, San Francisco, CA 94107
+- Phone: 415-201-6370
+- Email: hello@omnifood.com
